@@ -8,7 +8,4 @@ public class Atom {
     double atomicNumber;
     boolean isRadioactive;
     byte group;
-    //number of protons
-    //number of neutrons
-    //number of electrons
 }
